@@ -1,0 +1,6 @@
+﻿hello; hi!
+hi; hello, how are you?
+what are you; I am a simple chatbot.
+how are you; I am fine, how are you.
+fine; I am glad you are fine.
+bye; Bye, untill next time.
